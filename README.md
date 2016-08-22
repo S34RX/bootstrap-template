@@ -1,14 +1,16 @@
 <pre>
-Repositorio .: plantilla-html5
-Creación ....: 25/06/2015
-Autor .......: José A. Pacheco Ondoño - joanpaon@gmail.com
-Centro ......: IES Camp de Morvedre - Sagunto - Valencia - Spain
-Itinerario ..: Ciclos Formativos de Grado Superior
-Familia .....: Informática y Comunicaciones
-Ciclo .......: ASIR - DAW - DAM
-Curso .......: 1
-Módulo ......: MP 0373 - Lenguajes de Marcas y Sistemas de Gestión de Información
-Tema ........: 2 – Lenguajes de Marcas para la Web
-Lenguaje ....: HTML5 + CSS3 + JS
-IDE .........: Brackets 1.3 + plugins
+Repository ...: plantilla-html5
+Version ......: 1.1.0
+Created ......: 25/06/2015
+Updated ......: 22/08/2016
+Author .......: José A. Pacheco Ondoño - joanpaon@gmail.com
+Center .......: IES Camp de Morvedre - Sagunto - Valencia - Spain
+Itinerary ....: Higher Level Formative Cycles
+Family .......: Computing and Communications
+Cycle ........: ASIR - DAW - DAM
+Course .......: 1 (first) of 2
+Módule .......: MP 0373 - Markup Languages and Information Management Systems
+Theme ........: 2 – Markup Languages for the Web
+Languages ....: HTML5 + CSS3 + JS
+IDE ..........: Brackets + plugins
 <pre>
