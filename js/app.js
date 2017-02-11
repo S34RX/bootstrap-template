@@ -40,4 +40,5 @@ var initApp = function () {
 };
 
 // Activating the script after the page loading
-$(initApp);
+window.addEventListener("load", iniciarAplicacion, true); // DOM Launcher
+//$(initApp); // JQuery Launcher
