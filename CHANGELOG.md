@@ -1,58 +1,20 @@
 <pre>
 
-Version 1.1.1 - 11/02/2017
+Version 0.1.3 - 26/05/2017
 ==========================
 
-Additions
----------
-> None
+> Repository name changed
+> Some minor refactorizations
 ---
 
-Updates
--------
+Version 0.1.0 
+=============
+
+Info
+----
+Date ....: 18/04/2017
+Purpose .: Starting Point for Simple Static HTML Pages Templates
 ---
-
-Changes
--------
-> README.md - Bugs fixed
-> js/app.js - Added DOM Launcher after loading
----
-
-Deleted
--------
-> None
----
-
-Version 1.1.0 - 22/08/2016
-==========================
-
-Additions
----------
-> CHANGELOG.md - (This file)
-> js/angular.min.js - 1.5.8
----
-
-Updates
--------
-> jquery 2.2.2 > bootstrap 3.1.0
-> bootstrap 3.3.5 > bootstrap 3.3.7
-> gmapsjs 0.4.23 > gmapsjs 0.4.24
-> zeptojs 1.1.6 >   zeptojs 1.2.0
-> touchjs (zepto plugin) - upgrade
----
-
-Changes
--------
-> None
----
-
-Deleted
--------
-> None
----
-
-Version 1.0.0 - 25/06/2015
-==========================
 
 Additions
 ---------
@@ -63,25 +25,13 @@ Additions
   - img
   - fonts
 > index.html
-  - Minimun HTML5 contents
-  - W3C Validated
+  - Minimun HTML contents
 > LICENSE.md
 > README.md
 > .gitignone
 > css/app.css - empty
-> css/bootstrap.min.css - 3.3.5
-> js/app.js - empty jquery templete
-> js/bootstrap.min.js - 3.3.5
-> js/gmaps.js - 0.4.23
-> js/jquery-2.2.2.min.js - 2.2.2
-> js/touch.js - (zepto plugin)
-> js/zepto.min.js - 1.1.6
+> js/app.js - DOM Template
 > img/favicon.ico
-> fonts/glyphicons-halflings-regular.eot
-> fonts/glyphicons-halflings-regular.svg
-> fonts/glyphicons-halflings-regular.ttf
-> fonts/glyphicons-halflings-regular.woff
-> fonts/glyphicons-halflings-regular.woff2
 
 Updates
 -------
